@@ -30,7 +30,7 @@
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
-<img align="left" alt="SQL" width="26px" src="https://thumbs.dreamstime.com/b/banco-de-dados-do-sql-%C3%ADcone-m%C3%B3vel-isolado-servidor-da-web-lisa-com-palavra-ilustra%C3%A7%C3%A3o-vetor-isolada-no-fundo-moderno-128839153.jpg" />
+<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/509/412/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text.png" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
