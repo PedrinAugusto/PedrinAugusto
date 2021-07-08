@@ -43,15 +43,4 @@
 <br />
 
 
----
 
-
-
-
----
-
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedrinAugusto&show_icons=true&hide_border=true" />
-
-[medium]: https://medium.com/@cabreirajm
-[linkedin]: linkedin.com/in/cabreirajm
-[instagram]: https://instagram.com/jhon_cabreira
