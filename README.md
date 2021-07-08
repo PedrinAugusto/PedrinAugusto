@@ -32,7 +32,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/509/412/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text.png" />
 
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
+<img align="left" alt="Pandas" width="26px" src="https://bioinfo.imd.ufrn.br/static_newsletter/transcricaoemdia_old/NovEvo_site.jpg" />
 
 <img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
 
