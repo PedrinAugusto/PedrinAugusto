@@ -2,7 +2,6 @@
 
 ## I am an electronic engineer developing myself in the data science field. 
 
-- 💻 I’m a Data Scientist
 - 📊 I'm looking for my first opportunity as a data scientist.
 - 📈 I’m constantly learning and Improving my skills
 - 💻 I'm still developing my English skills so the other information will be in Portuguese. 
