@@ -24,13 +24,13 @@
 
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
 
-[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/509/412/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text.png" />
 
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" />
 
-<img align="left" alt="Scipy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />
+[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 
-<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/509/412/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text.png" />
+<img align="left" alt="Scipy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />
 
 <img align="left" alt="Pandas" width="26px" src="https://image.pngaaa.com/296/1947296-middle.png" />
 
@@ -38,7 +38,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
