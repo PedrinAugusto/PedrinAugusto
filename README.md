@@ -28,7 +28,7 @@
 
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" />
 
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+<img align="left" alt="Scipy" width="26px" src="https://static.wixstatic.com/media/2826fb_58f8e3139f6a4c24b546acad1a73a4d2~mv2.png/v1/fill/w_184,h_164,al_c,q_85,usm_0.66_1.00_0.01/SciPy%20Icon.webp" />
 
 <img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/509/412/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text.png" />
 
